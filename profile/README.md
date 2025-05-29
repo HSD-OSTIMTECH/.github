@@ -1,129 +1,86 @@
-<h2 align="left">HSD OSTİMTECH</h2>
+<h2 align="center">🌟 HSD OSTİMTECH</h2>
 
-###
-
-<div align="left">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E0BAQGvEndTpmWVWA/company-logo_200_200/B4EZWGjhBBHMAM-/0/1741719212606?e=1753920000&v=beta&t=r32eMlvNfMFLB6EuQuGknoDbhNqINnNbmWT6_aDTXD4"  />
+<div align="center">
+  <img height="120" src="https://media.licdn.com/dms/image/v2/D4E0BAQGvEndTpmWVWA/company-logo_200_200/B4EZWGjhBBHMAM-/0/1741719212606?e=1753920000&v=beta&t=r32eMlvNfMFLB6EuQuGknoDbhNqINnNbmWT6_aDTXD4" alt="HSD OSTİMTECH Logo" />
 </div>
 
-###
+---
 
-<p align="left">HSD OSTİMTECH tarafından yürütülen sosyal sorumluluk projeleri, üniversitenin topluma katkı sağlama vizyonu doğrultusunda geliştirilmiş ve çeşitli alanlarda farkındalık yaratmayı hedefleyen çalışmalar bütünüdür. Bu projeler; çevre bilincini artırmaya yönelik geri dönüşüm kampanyalarından dezavantajlı gruplara destek sağlayan yardım organizasyonlarına, eğitimde fırsat eşitliğini teşvik eden gönüllü öğretim programlarından yerel halkla iş birliği içinde gerçekleştirilen kültürel ve sanatsal etkinliklere kadar geniş bir yelpazeyi kapsamaktadır.<br><br>Aynı zamanda öğrencilerin toplumsal duyarlılıklarını artırmayı amaçlayan bu projeler, onların sosyal sorumluluk bilinciyle hareket eden bireyler olarak yetişmelerine katkı sağlamaktadır. HSD OSTİMTECH, bu çalışmalarıyla hem öğrencilerini aktif yurttaşlık konusunda desteklemekte hem de üniversitenin çevresel, toplumsal ve ekonomik sürdürülebilirliğe olan bağlılığını somut biçimde ortaya koymaktadır.</p>
+<p align="center">
+<strong>HSD OSTİMTECH</strong> tarafından yürütülen sosyal sorumluluk projeleri, üniversitenin topluma katkı sağlama vizyonu doğrultusunda geliştirilmiştir. Bu projeler; çevre bilinci, eğitimde fırsat eşitliği, kültürel farkındalık ve dezavantajlı gruplara destek gibi alanlarda farkındalık yaratmayı amaçlar.
+<br><br>
+Aynı zamanda öğrencilerin toplumsal duyarlılıklarını artırmayı hedefleyen bu çalışmalar, onları sosyal sorumluluk bilinciyle hareket eden bireyler olarak yetiştirir. Böylece üniversitenin çevresel, toplumsal ve ekonomik sürdürülebilirliğe olan bağlılığı somutlaşır.
+</p>
 
-###
+---
 
-<h4 align="left">Bizi Takip Edin!</h4>
+### 📢 Bizi Takip Edin
 
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/hsd.ostimtech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" />
   </a>
   <a href="https://www.medium.com/@hsd.ostimtech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="28" />
   </a>
   <a href="https://www.linkedin.com/company/hsd-ostimtech/posts/?feedView=all" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" />
   </a>
   <a href="https://youtube.com/@hsdostimtech?si=Ke12CCj9nj0D0pU3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" />
   </a>
 </div>
 
-###
+---
 
-<h4 align="left">Bu Organizasyonda Kullanılan Teknolojiler</h4>
+### 🛠️ Bu Organizasyonda Kullanılan Teknolojiler
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,js,ts,react,nextjs,vue,nuxtjs,svelte,dart,flutter,electron,github,git,gitlab,figma,xd,ps,aws,docker" height="40" />
 </div>
 
-###
+---
 
-<h4 align="left">Katkı Sağlamak İçin</h4>
+### 🤝 Katkı Sağlamak İçin
 
-HSD OSTİMTECH olarak sosyal sorumluluk projelerinde teknolojiyi toplum yararına kullanmayı hedefliyoruz. Bu projelere katkı sağlamak isteyen herkesi açık kaynak ruhuyla aramızda görmekten memnuniyet duyarız.
+HSD OSTİMTECH olarak sosyal sorumluluk projelerinde teknolojiyi toplum yararına kullanmayı hedefliyoruz. Açık kaynak dünyasında yer almak isteyen herkesi projelerimize katkı sunmaya davet ediyoruz.
 
 #### Katkıda Bulunmanın Yolları:
 
 1. **Issue Açın**  
-   Bir hata tespit ettiyseniz ya da bir geliştirme öneriniz varsa, lütfen ilgili projede bir [Issue](https://docs.github.com/en/issues) açın.
+   Geliştirme öneriniz veya hata bildiriminiz varsa bir [Issue](https://docs.github.com/en/issues) açabilirsiniz.
 
 2. **Forklayın ve Pull Request Gönderin**  
-   - Reposu forklayın  
-   - Geliştirmelerinizi kendi branch'inizde yapın  
-   - Açıklayıcı commit mesajları kullanın  
+   - Repo'yu forklayın  
+   - Geliştirmelerinizi kendi branch’inizde yapın  
+   - Açıklayıcı commit mesajları yazın  
    - Ana projeye bir Pull Request gönderin
 
-3. **Dökümantasyon Katkısı**  
-   Kod yazmasanız bile, dökümantasyonun gelişimine katkıda bulunabilir veya çeviri yapabilirsiniz.
+3. **Dökümantasyona Katkı**  
+   Belgelendirme ve çeviri katkıları da bizim için çok değerli.
 
-4. **Yeni Proje Önerin**  
-   Topluma fayda sağlayacağını düşündüğünüz bir proje fikriniz varsa, bizimle [issue](https://github.com) veya [email](mailto:hsd.ostimtech@gmail.com) üzerinden paylaşın.
+4. **Yeni Proje Önerisi**  
+   Yeni fikirlerinizi bizimle [issue](https://github.com) ya da [mail](mailto:hsd.ostimtech@gmail.com) üzerinden paylaşabilirsiniz.
 
-#### 📌 Katkı Sağlarken Dikkat Edilmesi Gerekenler
+#### 🧠 Katkı Sağlarken Unutmayın
 
-- Lütfen [CONTRIBUTING.md](./CONTRIBUTING.md) dosyasını okuyun.
-- Kodunuzun anlaşılır, yorumlanabilir ve test edilmiş olmasına özen gösterin.
-- Açık ve saygılı bir iletişim dilini benimseyin.
+- [CONTRIBUTING.md](./CONTRIBUTING.md) dosyasını mutlaka inceleyin.  
+- Açık ve saygılı bir iletişim diline özen gösterin.  
+- Yazdığınız kodun açıklayıcı ve test edilmiş olmasına dikkat edin.  
 
-💡 Unutmayın, küçük bir katkı bile büyük bir değişimin parçası olabilir.
+💡 *Küçük bir katkı bile büyük bir etki yaratabilir.*
 
-Teşekkürler! 🙌  
-— HSD OSTİMTECH Ekibi
+---
+
+### 📂 Projelerimiz
+
+| Proje Adı                          | Açıklama                                      | Durum          |
+|------------------------------------|-----------------------------------------------|----------------|
+| Deprem Hakkında Bilinçlenme        | Deprem Hakkında Bilinçlenme                   | 🧭 Planlanıyor |
 
 
-###
+---
 
-<h4 align="left">Projelerimiz</h4>
+> Bu depodaki içeriklerin tamamı topluma fayda sağlama amacıyla hazırlanmıştır. Sizinle daha güçlü bir geleceğe ilerlemek istiyoruz. 💙
 
-###
+<p align="center"><strong>— HSD OSTİMTECH Ekibi</strong></p>
