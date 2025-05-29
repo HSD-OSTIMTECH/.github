@@ -28,7 +28,7 @@ HSD OSTİMTECH projeleri kapsayıcı, saygılı ve destekleyici bir topluluğu s
 ## 📢 İhlal Bildirimi
 
 Bu kuralları ihlal eden davranışlarla karşılaşırsanız lütfen bizimle iletişime geçin:  
-📧 **hsd@ostimtech.edu.tr**
+📧 **hsd.ostimtech@gmail.com**
 
 Tüm şikayetler gizlilik çerçevesinde ele alınacaktır. Gerekli durumlarda katkıcının projeden uzaklaştırılması da dahil olmak üzere uygun aksiyonlar alınır.
 
