@@ -108,7 +108,7 @@ HSD OSTİMTECH olarak sosyal sorumluluk projelerinde teknolojiyi toplum yararın
    Kod yazmasanız bile, dökümantasyonun gelişimine katkıda bulunabilir veya çeviri yapabilirsiniz.
 
 4. **Yeni Proje Önerin**  
-   Topluma fayda sağlayacağını düşündüğünüz bir proje fikriniz varsa, bizimle [issue](https://github.com) veya [email](mailto:hsd@ostimtech.edu.tr) üzerinden paylaşın.
+   Topluma fayda sağlayacağını düşündüğünüz bir proje fikriniz varsa, bizimle [issue](https://github.com) veya [email](mailto:hsd.ostimtech@gmail.com) üzerinden paylaşın.
 
 #### 📌 Katkı Sağlarken Dikkat Edilmesi Gerekenler
 
