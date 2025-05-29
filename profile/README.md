@@ -36,7 +36,7 @@ Aynı zamanda öğrencilerin toplumsal duyarlılıklarını artırmayı hedefley
 ### 🛠️ Bu Organizasyonda Kullanılan Teknolojiler
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,js,ts,react,nextjs,vue,nuxtjs,svelte,dart,flutter,electron,github,git,gitlab,figma,xd,ps,aws,docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui,js,ts,react,nextjs,vue,nuxtjs,svelte,dart,flutter,electron,github,git,gitlab,figma,xd,ps,aws,docker" height="200" />
 </div>
 
 ---
