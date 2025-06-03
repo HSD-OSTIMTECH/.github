@@ -76,7 +76,7 @@ HSD OSTİMTECH olarak sosyal sorumluluk projelerinde teknolojiyi toplum yararın
 
 | Proje Adı                          | Açıklama                                      | Durum          |
 |------------------------------------|-----------------------------------------------|----------------|
-| Deprem Hakkında Bilinçlenme        | Deprem Hakkında Bilinçlenme                   | 🧭 Planlanıyor |
+| DepremBilinci       | Deprem Hakkında Bilinçlenme                   | 🧭 Planlanıyor |
 
 
 ---
